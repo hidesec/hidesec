@@ -1,5 +1,4 @@
 ### Hi there, I'm Raihan. I am not a person with an IT education background, I study in office administration. pentest, coding, make hacking tool, exploration is my hobby :D
-### Code for fun!
 
 ## I'm Backend Developer, IT security enthusiast 🔐
 - 👨‍💻 I'm currently work at Indosat as a Backend Developer
