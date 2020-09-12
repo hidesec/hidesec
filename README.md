@@ -25,7 +25,7 @@
 <br />
 <br />
 ### My stats:
-[![hidesec's github stats](https://github-readme-stats.vercel.app/api?username=hidesec&count_private=true&show_icons=true&theme=tokyonight&show_owner=true)]
+![hidesec's github stats](https://github-readme-stats.vercel.app/api?username=hidesec&count_private=true&show_icons=true&theme=tokyonight&show_owner=true)
 
 ### Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hidesec)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hidesec)
