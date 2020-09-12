@@ -10,7 +10,7 @@
 [<img align="left" alt="hidesec.tech" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://www.hidesec.tech/)
 [<img align="left" alt="hidesec.tech" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/raihan_hafis/)
 [<img align="left" alt="hidesec.tech" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/raihan-hafiizh-qurratu-ain-44315a176/)
-
+<br />
 ### Languages and Tools:
 [<img align="left" alt="hidesec.tech" width="22px" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png" />](#)
 [<img align="left" alt="hidesec.tech" width="22px" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" />](#)
