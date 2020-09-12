@@ -25,4 +25,4 @@
 <br />
 <br />
 ### My stats:
-![hidesec's github stats](https://github-readme-stats.vercel.app/api?username=hidesec&include_all_commits=true&show_icons=true&theme=tokyonight)
+![hidesec's github stats](https://github-readme-stats.vercel.app/api?username=hidesec&count_private=true&show_icons=true&theme=tokyonight&show_owner=true)
