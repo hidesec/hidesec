@@ -7,7 +7,7 @@
 - 🍵 Fun fact: I never went to college to become a programmer, because that's my hobby
 
 ### Connect with me:
-[<img align="left" alt="hidesec.tech" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://www.hidesec.tech/)
+[<img align="left" alt="hidesec.tech" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://hidesec.tech/)
 [<img align="left" alt="hidesec.tech" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/raihan_hafis/)
 [<img align="left" alt="hidesec.tech" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/raihan-hafiizh-qurratu-ain-44315a176/)
 <br />
