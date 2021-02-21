@@ -1,9 +1,9 @@
-### Hi there, I'm Raihan. I am not a person with an IT education background, I study in office administration. pentest, coding, make hacking tool, exploration is my hobby :D
+### Hi there, I'm Raihan. I am not a person with an IT education background, I study in office administration. Coding, and exploration is my hobby :D
 
-## I'm Backend Developer, IT security enthusiast 🔐
+## I'm Programmer 🔐
 - 👨‍💻 I'm currently work at Indosat as a Web Developer
 - 📑 I'm currently learning everything
-- 💼 2020 Goals: make machine learning, and get lots of bugs
+- 💼 2021 Goals: master of Java, and C++
 - 🍵 Fun fact: I never went to college to become a programmer, because that's my hobby
 
 ### Connect with me:
