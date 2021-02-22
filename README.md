@@ -3,7 +3,7 @@
 ## I'm Programmer 🔐
 - 👨‍💻 I'm currently work at Indosat as a Web Developer
 - 📑 I'm currently learning everything
-- 💼 2021 Goals: master of Java, and C++
+- 💼 2021 Goals: master of Java, Go, and C++
 - 🍵 Fun fact: I never went to college to become a programmer, because that's my hobby
 
 ### Connect with me:
@@ -12,6 +12,9 @@
 [<img align="left" alt="hidesec.tech" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/raihan-hafiizh-qurratu-ain-44315a176/)
 <br />
 ### Languages and Tools:
+[<img align="left" alt="hidesec.tech" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />](#)
+[<img align="left" alt="hidesec.tech" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" />](#)
+[<img align="left" alt="hidesec.tech" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />](#)
 [<img align="left" alt="hidesec.tech" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png" />](#)
 [<img align="left" alt="hidesec.tech" width="22px" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png" />](#)
 [<img align="left" alt="hidesec.tech" width="22px" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" />](#)
