@@ -1,10 +1,9 @@
-### Hi there, I'm Raihan. I am not a person with an IT education background, I study in office administration. Coding, and exploration is my hobby :D
+### Hi there, I'm Raihan. I'm a programmer with a passion for coding and exploration. I began my IT career as a web developer/backend engineer for 3 years before deciding to attend college to pursue an education in IT. Coding, and exploration is my hobby :D
 
 ## I'm Programmer 🔐
 - 👨‍💻 I'm currently work at Telkom as a Web Developer
 - 📑 I'm currently learning everything
 - 💼 2021 Goals: master of Java, Go, and C++
-- 🍵 Fun fact: I never went to college to become a programmer, because that's my hobby
 
 ### Connect with me:
 [<img align="left" alt="hidesec.tech" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://hidesec.tech/)
