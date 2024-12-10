@@ -1,4 +1,4 @@
-### Hi there, I'm Raihan. I'm a programmer with a passion for coding and exploration. I began my IT career as a web developer/backend engineer for 3 years before deciding to attend college to pursue an education in IT. Coding, and exploration is my hobby :D
+### Hi there, I'm Raihan. I'm a programmer with a passion for coding and exploration. I began my IT career as a web developer/backend engineer for 4 years before deciding to attend college to pursue an education in IT. Coding, and exploration is my hobby :D
 
 ## I'm Programmer 🔐
 - 👨‍💻 I'm currently work at Telkom as a Web Developer
