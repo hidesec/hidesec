@@ -7,6 +7,16 @@
 - 📑 I'm currently learning everything
 - 💼 2025 Goals: master of Typescript, Node.js, and python
 
+### My stats:
+![hidesec's github stats](https://github-readme-stats.vercel.app/api?username=hidesec&count_private=true&show_icons=true&theme=gruvbox&show_owner=true)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=hidesec&theme=gruvbox)](https://git.io/streak-stats)
+
+### Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hidesec&layout=compact&theme=gruvbox)
+
+### Time for Code
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hidesec&layout=compact&theme=gruvbox)](https://github.com/hidesec/hidesec)
+
 ### Connect with me:
 [![image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hidesec)
 [![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/raihan_hafis/)
@@ -79,17 +89,6 @@
 ![image](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 ![image](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![image](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
-<br />
-<br />
-### My stats:
-![hidesec's github stats](https://github-readme-stats.vercel.app/api?username=hidesec&count_private=true&show_icons=true&theme=gruvbox&show_owner=true)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=hidesec&theme=gruvbox)](https://git.io/streak-stats)
-
-### Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hidesec&layout=compact&theme=gruvbox)
-
-### Time for Code
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hidesec&layout=compact&theme=gruvbox)](https://github.com/hidesec/hidesec)
 
 ###
 
