@@ -7,7 +7,7 @@
 - 📑 I'm currently learning everything
 - 💼 2025 Goals: master of Typescript, Node.js, and python
 
-### My stats:
+### My stats
 ![hidesec's github stats](https://github-readme-stats.vercel.app/api?username=hidesec&count_private=true&show_icons=true&theme=gruvbox&show_owner=true)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=hidesec&theme=gruvbox)](https://git.io/streak-stats)
 
