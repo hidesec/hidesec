@@ -9,7 +9,7 @@
 
 ### My stats
 ![hidesec's github stats](https://github-readme-stats.vercel.app/api?username=hidesec&count_private=true&show_icons=true&theme=gruvbox&show_owner=true)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=hidesec&theme=gruvbox)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=hidesec&theme=gruvbox)](https://git.io/streak-stats)
 
 ### Top Languages
 ![Top Langs](https://github-readme-streak-stats-eight.vercel.app/?username=hidesec&layout=compact&theme=gruvbox)
