@@ -12,7 +12,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=hidesec&theme=gruvbox)](https://git.io/streak-stats)
 
 ### Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hidesec&layout=compact&theme=gruvbox)
+![Top Langs](https://github-readme-streak-stats-eight.vercel.app/?username=hidesec&layout=compact&theme=gruvbox)
 
 ### Time for Code
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hidesec&layout=compact&theme=gruvbox)](https://github.com/hidesec/hidesec)
