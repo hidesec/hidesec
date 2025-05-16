@@ -37,6 +37,10 @@ $$
 
 ### 📈 My Stats
 ![hidesec's github stats](https://github-readme-stats.vercel.app/api?username=hidesec&count_private=true&show_icons=true&theme=gruvbox&show_owner=true)
+
+---
+
+### 🔥My Streak
 [![hidesec's GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=hidesec&theme=gruvbox)](https://git.io/streak-stats)
 
 ---
