@@ -17,33 +17,47 @@ connection = \frac{mbulll \times bubub}{1 - love}
 $$
 
 <a href="https://github.com/hidesec">
-  <img src="https://render.gitanimals.org/lines/hidesec?pet-id=711168260318186302" width="32%" height="150"/>
-  <img src="https://render.gitanimals.org/lines/hidesec?pet-id=711181515208025389" width="32%" height="150"/>
-  <img src="https://render.gitanimals.org/lines/hidesec?pet-id=710763199855359417" width="32%" height="150"/>
+  <img src="https://render.gitanimals.org/lines/hidesec?pet-id=711181515208025389" width="40%" height="220"/>
+  <img src="https://render.gitanimals.org/lines/hidesec?pet-id=710763199855359417" width="40%" height="220"/>
 </a>
 
 ### Hi there, I'm Raihan. I'm a programmer with a passion for coding and exploration. I began my IT career as a web developer/backend engineer for 4 years before deciding to attend college to pursue an education in IT. Coding, and exploration is my hobby :D
 
-## I'm Programmer 🔐
+### I'm Programmer 🔐
 - 👨‍💻 I'm currently freelancer
 - 📑 I'm currently learning everything
 - 💼 2025 Goals: master of Typescript, Node.js, and python
 
-### My Stats
+---
+
+### 📈 My Stats
 ![hidesec's github stats](https://github-readme-stats.vercel.app/api?username=hidesec&count_private=true&show_icons=true&theme=gruvbox&show_owner=true)
 [![hidesec's GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=hidesec&theme=gruvbox)](https://git.io/streak-stats)
 
-### My Summary
+---
+
+### 📊 My Summary
 ![hidesec's GitHub Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hidesec&theme=gruvbox)
 ![hidesec's GitHub Commits](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hidesec&theme=gruvbox&utcOffset=7)
 
-### Top Languages
+---
+
+### </> Top Languages
 ![hidesec's GitHub Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hidesec&layout=compact&theme=gruvbox)
 
-### Time for Code
+---
+
+### ⏰ Time for Code
 [![hidesec's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hidesec&layout=compact&theme=gruvbox)](https://github.com/hidesec/hidesec)
 
-### 3D Contribution
+---
+
+### 🧑‍💻 Monthly Contribution Stats
+![hidesec's Github Monthly Contribution Stats](https://github-readme-activity-graph.vercel.app/graph?username=hidesec&theme=xcode&radius=8&area=true)
+
+---
+
+### 🧑‍💻 3D Contribution
 <p align="center" >
 	<picture>
 	  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/hidesec/hidesec/output-3d-contrib/profile-night-rainbow.svg" />
@@ -52,15 +66,22 @@ $$
 	</picture>
 </p>
 
-### Github Trophies
+---
+
+### 🏆 Github Trophies
 ![hidesec's GitHub Trophies](https://github-trophies.vercel.app/?username=hidesec&theme=gruvbox&no-frame=true)
 
-### Connect with me:
+---
+
+### 💬 Connect with me:
 [![image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hidesec)
 [![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/raihan_hafis/)
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raihan-hafiizh-qurratu-ain-44315a176/)
 <br />
-### Languages and Tools:
+
+---
+
+### 🔨 Languages and Tools:
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![image](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -137,3 +158,5 @@ $$
 </picture>
 
 ###
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&text=Thank%20you%20for%20visiting%20👋&reversal=false&section=footer&fontSize=16&animation=twinkling&fontAlignY=80">
