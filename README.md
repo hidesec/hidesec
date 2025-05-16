@@ -1,4 +1,4 @@
-![Raihan H. Q.](img/hey-6.png)
+[![Raihan H. Q.](img/hey-6.png)](https://github.com/hidesec)
 $$
 happiness = (mbulll + bubub) \times love
 $$
@@ -14,10 +14,11 @@ $$
 $$
 connection = \frac{mbulll \times bubub}{1 - love}
 $$
+
 <a href="https://github.com/hidesec">
-  <img src="https://render.gitanimals.org/lines/hidesec?pet-id=711168260318186302" width="30%" height="220"/>
-  <img src="https://render.gitanimals.org/lines/hidesec?pet-id=711181515208025389" width="30%" height="220"/>
-  <img src="https://render.gitanimals.org/lines/hidesec?pet-id=710763199855359417" width="30%" height="220"/>
+  <img src="https://render.gitanimals.org/lines/hidesec?pet-id=711168260318186302" width="30%" height="160"/>
+  <img src="https://render.gitanimals.org/lines/hidesec?pet-id=711181515208025389" width="30%" height="160"/>
+  <img src="https://render.gitanimals.org/lines/hidesec?pet-id=710763199855359417" width="30%" height="160"/>
 </a>
 
 ### Hi there, I'm Raihan. I'm a programmer with a passion for coding and exploration. I began my IT career as a web developer/backend engineer for 4 years before deciding to attend college to pursue an education in IT. Coding, and exploration is my hobby :D
