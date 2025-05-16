@@ -17,9 +17,9 @@ connection = \frac{mbulll \times bubub}{1 - love}
 $$
 
 <a href="https://github.com/hidesec">
-  <img src="https://render.gitanimals.org/lines/hidesec?pet-id=711168260318186302" width="30%" height="220"/>
-  <img src="https://render.gitanimals.org/lines/hidesec?pet-id=711181515208025389" width="30%" height="220"/>
-  <img src="https://render.gitanimals.org/lines/hidesec?pet-id=710763199855359417" width="30%" height="220"/>
+  <img src="https://render.gitanimals.org/lines/hidesec?pet-id=711168260318186302" width="32%" height="150"/>
+  <img src="https://render.gitanimals.org/lines/hidesec?pet-id=711181515208025389" width="32%" height="150"/>
+  <img src="https://render.gitanimals.org/lines/hidesec?pet-id=710763199855359417" width="32%" height="150"/>
 </a>
 
 ### Hi there, I'm Raihan. I'm a programmer with a passion for coding and exploration. I began my IT career as a web developer/backend engineer for 4 years before deciding to attend college to pursue an education in IT. Coding, and exploration is my hobby :D
@@ -41,7 +41,7 @@ $$
 ![hidesec's GitHub Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hidesec&layout=compact&theme=gruvbox)
 
 ### Time for Code
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hidesec&layout=compact&theme=gruvbox)](https://github.com/hidesec/hidesec)
+[![hidesec's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hidesec&layout=compact&theme=gruvbox)](https://github.com/hidesec/hidesec)
 
 ### 3D Contribution
 <p align="center" >
@@ -51,6 +51,9 @@ $$
 	  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/hidesec/hidesec/output-3d-contrib/profile-south-season-animate.svg" />
 	</picture>
 </p>
+
+### Github Trophies
+![hidesec's GitHub Trophies](https://github-trophies.vercel.app/?username=hidesec&theme=gruvbox&no-frame=true)
 
 ### Connect with me:
 [![image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hidesec)
