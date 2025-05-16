@@ -43,7 +43,10 @@ $$
 
 ### 📊 My Summary
 ![hidesec's GitHub Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hidesec&theme=gruvbox)
-![hidesec's GitHub Commits](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hidesec&theme=gruvbox&utcOffset=7)
+
+---
+
+### </> Top Languages
 ![hidesec's GitHub Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hidesec&layout=compact&theme=gruvbox)
 
 ---
