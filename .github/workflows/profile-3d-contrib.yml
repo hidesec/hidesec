@@ -1,17 +1,12 @@
-name: generate 3d chart for profile contributions
+name: GitHub-Profile-3D-Contrib
 
 on:
-  # run automatically every 24 hours
-  schedule:
-    - cron: "* */12 * * *" 
-  
-  # allows to manually run the job at any time
+  schedule: # execute every 12 hours
+    - cron: "* */12 * * *"
   workflow_dispatch:
-  
-  # run on every push on the master branch
-  push:
-    branches:
-    - master
+
+permissions:
+  contents: write
 
 jobs:
   build:
@@ -23,14 +18,11 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
-          SETTING_JSON: conf/github-profile-3d-contrib.json
-          
-      # push the content of <build_dir> to a branch
-      # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
-      - name: push SVGs to the output-3d branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output-3d-contrib
-          build_dir: profile-3d-contrib
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Commit & Push
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add -A .
+          if git commit -m "generated"; then
+            git push
+          fi
