@@ -65,17 +65,6 @@ $$
 
 ---
 
-### 🧑‍💻 3D Contribution
-<p align="center" >
-	<picture>
-	  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/hidesec/hidesec/output-3d-contrib/profile-night-rainbow.svg" />
-	  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hidesec/hidesec/output-3d-contrib/profile-south-season-animate.svg" />
-	  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/hidesec/hidesec/output-3d-contrib/profile-south-season-animate.svg" />
-	</picture>
-</p>
-
----
-
 ### 🏆 Github Trophies
 ![hidesec's GitHub Trophies](https://github-trophies.vercel.app/?username=hidesec&theme=gruvbox&no-frame=true)
 
@@ -156,14 +145,6 @@ $$
 ![image](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 ![image](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![image](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hidesec/hidesec/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hidesec/hidesec/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/hidesec/hidesec/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
 
